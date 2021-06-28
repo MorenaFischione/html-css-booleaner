@@ -23,3 +23,19 @@ header {
     font-size: 12px;
     font-weight: 700;
 }
+
+.evidenziato {
+    background-color: yellow;
+}
+
+.intestazione-tabella {
+    text-align: left;
+    background-color: rgb(37, 157, 238);
+}
+.colonna1, .colonna2{
+    width: 20%;
+}
+
+.corpo-tabella {
+    background-color: rgb(106, 207, 233);
+}
