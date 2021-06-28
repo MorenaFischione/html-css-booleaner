@@ -9,7 +9,6 @@ header {
 
 #logo {
     width: 10%;
-    line-height: 500%;
 }
 
 .intestazione {
@@ -18,6 +17,7 @@ header {
 
 #Booleaner {
     color: rgb(121, 201, 247);
+    text-decoration: none;
 }
 
 .description-img {
