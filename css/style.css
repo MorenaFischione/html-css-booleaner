@@ -39,3 +39,9 @@ header {
 .corpo-tabella {
     background-color: rgb(106, 207, 233);
 }
+
+.img-footer {
+    width: 250px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+}
